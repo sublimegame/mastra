@@ -1,5 +1,28 @@
 # @mastra/deployer
 
+## 0.3.1-alpha.1
+
+### Patch Changes
+
+- e7c2881: fix: support dynamic imports when bundling
+- 92c598d: Remove API request logs from local dev server
+- 35955b0: Rename import to runtime-contxt
+- c1409ef: Add vNextWorkflow handlers and APIs
+  Add stepGraph and steps to vNextWorkflow
+- 11d4485: Show VNext workflows on the playground
+  Show running status for step in vNext workflowState
+- 611aa4a: add all builds to run postinstall
+- Updated dependencies [20275d4]
+- Updated dependencies [7d1892c]
+- Updated dependencies [a90a082]
+- Updated dependencies [35955b0]
+- Updated dependencies [c1409ef]
+- Updated dependencies [f200fed]
+- Updated dependencies [11d4485]
+- Updated dependencies [2d4001d]
+  - @mastra/core@0.9.1-alpha.1
+  - @mastra/server@2.0.1-alpha.1
+
 ## 0.3.1-alpha.0
 
 ### Patch Changes
